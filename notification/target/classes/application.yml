@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: notification
+
+  datasource:
+    url: jdbc:mysql://localhost:5433/notification
+    username: root
+    password: Lalitesh@2004
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+  rabbitmq:
+    addresses: localhost:5672
+eureka:
+  instance:
+    appname: notification
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+    fetch-registry: true
+    register-with-eureka: true
+
+server:
+  port: 2003
+
+rabbitmq:
+  exchanges:
+    internal: internal.exchange
+  queue:
+    notification: notification.queue
+  routing-keys:
+    internal-notification: internal.notification.routing-key

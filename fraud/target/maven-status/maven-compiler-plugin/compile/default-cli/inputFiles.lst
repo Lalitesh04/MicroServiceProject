@@ -1,0 +1,5 @@
+D:\SpringBoot\Microservices and Distributed Systems\MicroServiceProject\fraud\src\main\java\com\klef\jfsd\fraud\controller\FraudController.java
+D:\SpringBoot\Microservices and Distributed Systems\MicroServiceProject\fraud\src\main\java\com\klef\jfsd\fraud\FraudApplication.java
+D:\SpringBoot\Microservices and Distributed Systems\MicroServiceProject\fraud\src\main\java\com\klef\jfsd\fraud\model\FraudCheckHistory.java
+D:\SpringBoot\Microservices and Distributed Systems\MicroServiceProject\fraud\src\main\java\com\klef\jfsd\fraud\repository\FraudCheckHistoryRepository.java
+D:\SpringBoot\Microservices and Distributed Systems\MicroServiceProject\fraud\src\main\java\com\klef\jfsd\fraud\service\FraudCheckService.java

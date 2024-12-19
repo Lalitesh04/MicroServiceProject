@@ -1,0 +1,6 @@
+com\klef\jfsd\fraud\controller\FraudController.class
+com\klef\jfsd\fraud\service\FraudCheckService.class
+com\klef\jfsd\fraud\FraudApplication.class
+com\klef\jfsd\fraud\model\FraudCheckHistory.class
+com\klef\jfsd\fraud\repository\FraudCheckHistoryRepository.class
+com\klef\jfsd\fraud\model\FraudCheckHistory$FraudCheckHistoryBuilder.class

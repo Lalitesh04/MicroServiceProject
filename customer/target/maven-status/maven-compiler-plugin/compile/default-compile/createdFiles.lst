@@ -1,0 +1,9 @@
+com\klef\jfsd\customer\controller\CustomerController.class
+com\klef\jfsd\customer\CustomerApplication.class
+com\klef\jfsd\customer\dto\CustomerRegistrationRequest.class
+com\klef\jfsd\customer\service\CustomerService.class
+com\klef\jfsd\customer\config\handleExceptions.class
+com\klef\jfsd\customer\model\Customer.class
+com\klef\jfsd\customer\model\Customer$CustomerBuilder.class
+com\klef\jfsd\customer\config\CustomerConfig.class
+com\klef\jfsd\customer\repository\CustomerRepository.class

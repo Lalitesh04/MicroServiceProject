@@ -1,0 +1,5 @@
+com\klef\jfsd\clients\fraud\FraudClient.class
+com\klef\jfsd\clients\notifications\NotificationRequest$NotificationRequestBuilder.class
+com\klef\jfsd\clients\fraud\dto\FraudCheckResponse.class
+com\klef\jfsd\clients\notifications\NotificationClient.class
+com\klef\jfsd\clients\notifications\NotificationRequest.class

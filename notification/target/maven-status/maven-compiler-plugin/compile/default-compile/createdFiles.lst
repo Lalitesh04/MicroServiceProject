@@ -1,0 +1,8 @@
+com\klef\jfsd\notification\service\NotificationService.class
+com\klef\jfsd\notification\NotificationApplication.class
+com\klef\jfsd\notification\NotificationConfig.class
+com\klef\jfsd\notification\model\Notification$NotificationBuilder.class
+com\klef\jfsd\notification\repository\NotificationRepository.class
+com\klef\jfsd\notification\model\Notification.class
+com\klef\jfsd\notification\controller\NotificationController.class
+com\klef\jfsd\notification\NotificationApplication$Person.class
